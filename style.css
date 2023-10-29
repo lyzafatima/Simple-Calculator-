@@ -1,0 +1,38 @@
+
+body {
+    background-color: #e7ffff;
+}
+
+
+table {
+    width:40%;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  
+    
+
+}
+
+
+table, th, td {
+    border: 3px solid black;
+    border-radius: 10px;
+    border-top-left-radius:20px ;
+    border-top-right-radius: 20px;
+    
+}
+
+th {
+    height: 50px;
+    background-color: #F9F5E7;
+}
+
+td {
+    text-align: center;
+    background-color: #ECF2FF;
+}
+
+.col {
+    background-color: #C8B6A6;
+}
